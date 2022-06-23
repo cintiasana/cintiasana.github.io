@@ -1,0 +1,57 @@
+html{
+	background: url(fondocss.jpg);
+	color: white;
+}
+
+
+/*body {
+	background-color: #EEEEEE;
+}*/
+
+
+/*header {
+	background: url(codificacion.jpg);
+	color: white;
+}*/
+
+
+h1 {
+	font-family: dancing scrip;
+	text-shadow: 2px 2px 8px black;
+	font-size: 60px;
+	padding: 20px;
+	color:  #F57F17;
+}
+
+
+#parrafo1 {
+	font-size: 25px;
+	color: white;
+}
+
+.lista-modulo{
+	background-color:#AED6F1;
+	display: inline;
+	font-size: 22px;
+	padding: 5px;
+	margin: 7px;
+	color: black;
+}
+
+
+h2 {
+	color:#FFEE58;
+	font-size: 35px;
+	display: inline;
+}
+
+
+h3 {
+	color: #F57F17;
+	font-size: 22px;
+}
+
+#parrafo2 {
+	font-size: 20px;
+	color: #000099;
+}
