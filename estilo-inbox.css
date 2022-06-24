@@ -1,0 +1,81 @@
+h1 {
+	color: #2C3E50;
+	font-family: dancing scrip;
+	text-shadow: 2px 2px 6px black;
+	font-size: 60px;
+	padding: 20px;
+	background-color: #FFCDD2;
+	width: 800px;
+
+}
+
+
+html{
+	/*background: url(fondo-inbox.jpg);*/
+	background-color: #FBEEE6;
+	
+
+}
+
+#parrafo1 {
+	font-size: 25px;
+	color: blue;
+}
+
+.lista-modulo {
+	background-color: silver;
+	display: inline;
+	font-size: 22px;
+	padding: 5px;
+	margin: 7px;
+
+}
+
+/*#parrafo2 {
+	font-size: 20px;
+	float: right;
+}*/
+
+.lista-modulo:hover {
+	background-color: #F3E5F5;
+	color: grey;
+	padding: 20px;
+	font-size: 20px;
+}
+
+
+.cont {
+	margin: auto;
+	font-size: 20px;
+	width: 85%;
+	right: 70%;	
+	overflow: scroll;
+}
+
+.cont img {
+	float: right;
+	width: 30%;
+	right: 30%;
+}
+
+.cont2 {
+	/*margin: auto;*/
+	font-size: 20px;
+	width: 65%;
+	right: 70%;	
+}
+
+.cont2 img {
+	float: left;
+	width: 7%;
+	right: 7%;
+}
+
+#logo {
+	width: 3%;
+	right: 3%;
+	margin-left: -100%;
+	margin-bottom: 0%;
+	position: fixed;
+	margin-top: -1%;
+}
