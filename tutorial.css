@@ -1,0 +1,22 @@
+html {
+	background: #154360;
+	color: #E8F8F5;
+}
+
+p{
+	font-size: 20px;
+}
+
+#logo {
+	width: 3%;
+	right: 3%;
+	margin-left: -100%;
+	margin-bottom: 0%;
+	position: fixed;
+	margin-top: -1%;
+}
+.img {
+	border-style: double;
+	border-color: white;
+	
+}

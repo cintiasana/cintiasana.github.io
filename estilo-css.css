@@ -1,0 +1,90 @@
+html{
+	background: url(multimedia/fondocss.jpg);
+	color: white;
+}
+
+
+/*body {
+	background-color: #EEEEEE;
+}*/
+
+
+/*header {
+	background: url(codificacion.jpg);
+	color: white;
+}*/
+
+
+h1 {
+	font-family: dancing scrip;
+	text-shadow: 2px 2px 8px black;
+	font-size: 60px;
+	padding: 20px;
+	color:  #F57F17;
+}
+
+
+#parrafo1 {
+	font-size: 25px;
+	color: white;
+}
+
+.lista-modulo{
+	background-color:#AED6F1;
+	display: inline;
+	font-size: 22px;
+	padding: 5px;
+	margin: 7px;
+	color: black;
+}
+
+
+h2 {
+	color: #66FF33;
+	font-size: 35px;
+	display: inline;
+}
+
+
+/*h3 {
+	color: black ;
+	font-size: 22px;
+	background-color: #FF5722;
+	display: inline;
+}*/
+
+#parrafo2 {
+	font-size: 20px;
+	color: #F9E79F;
+}
+
+#logo {
+	width: 3%;
+	right: 3%;
+	margin-left: -100%;
+	margin-bottom: 0%;
+	position: fixed;
+	margin-top: -1%;
+}
+
+.lista-videos {
+	background-color: #0288D1;
+	padding: 60px;
+	overflow: scroll;
+	width: 300px;
+	height: 400px;
+	box-shadow: 6px black;
+	padding-top: 5px;
+	color: black;
+}
+
+#curso{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: red;
+	font-size: 20px;
+}
+
+#titulofinal {
+	color: black;
+	font-size: 30px;
+}

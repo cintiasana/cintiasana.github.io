@@ -1,0 +1,100 @@
+html {
+	background-image: url(multimedia/fondo-html.jpg);
+
+}
+
+
+h1 {
+	font-family: dancing scrip;
+	text-shadow: 2px 2px 8px black;
+	font-size: 60px;
+	padding: 20px;
+	color: black;
+}
+
+#parrafo1 {
+	font-size: 25px;
+	color: #1C2833;
+}
+
+.lista-modulo{
+	background-color: #45B39D;
+	display: inline;
+	font-size: 22px;
+	padding: 5px;
+	margin: 7px;
+	color: #4A148C;
+}
+
+h2 {
+	color: rgb(204, 28, 28);
+    font-size: 35px;
+}
+
+
+h3 {
+	color: #1F618D;
+	font-size: 22px;
+}
+
+#parrafo2 {
+	font-size: 20px;
+	color: black;
+}
+
+#parrafo3 {
+	font-size: 20px;
+	color: black;
+}
+
+
+#descarga {
+	color: black;
+}
+
+
+.lista-videos {
+	background-color: #FFECB3;
+	padding: 60px;
+	overflow: scroll;
+	width: 300px;
+	height: 300px;
+	box-shadow: 6px black;
+	padding-top: 5px;
+
+}
+
+#logo {
+	width: 3%;
+	right: 3%;
+	margin-left: -100%;
+	margin-bottom: 0%;
+	position: fixed;
+	margin-top: -1%;
+}
+
+#curso{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	color: red;
+	font-size: 20px;
+}
+
+#descarga {
+	font-size: 20px;
+	color: #145A32;
+}
+
+#titulofinal{
+	color: black;
+	font-size: 30px;
+}
+
+#pasarmodulo{
+	color: #145A32 ;
+}
+
+#mod3:hover {
+	background-color:#F9E79F;
+	padding: 20px;
+	font-size: 20px;
+}	
